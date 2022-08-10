@@ -11,6 +11,7 @@
     <title>Cadastro de Clientes</title>
   </head>
   <body>
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">Cadastro de Clientes</a>
@@ -23,10 +24,10 @@
             <a class="nav-link active" aria-current="page" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="?page=novo">Novo Usuário</a>
+            <a class="nav-link" href="?page=novo">Novo cliente</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="?page=lista">Listagem de Usuários</a>
+            <a class="nav-link" href="?page=lista">Lista de cliente</a>
             </li>
         </ul>
         </div>
